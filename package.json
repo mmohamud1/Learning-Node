@@ -1,0 +1,22 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmohamud1/Learning-Node.git"
+  },
+  "author": "Mohamed Mohamud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmohamud1/Learning-Node/issues"
+  },
+  "homepage": "https://github.com/mmohamud1/Learning-Node#readme",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  }
+}
